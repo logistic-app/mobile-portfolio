@@ -1,0 +1,27 @@
+.site-footer
+{
+    padding: 35px 0 30px;
+    width: 100%;
+    background-color: lightseagreen;
+    display: inline-flex;
+    bottom: 0;
+    position: relative;
+    // z-index: 150;
+
+    .footer1{
+        max-width: 50%;
+        margin-top: auto;
+        margin-bottom: auto;
+        font-weight: 500px;
+    }
+
+    .footer2{
+        max-width: 50%;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+
+    div{
+        width: 100%;
+    }
+}
